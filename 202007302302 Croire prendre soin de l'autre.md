@@ -1,5 +1,7 @@
 # Croire prendre soin de l'autre
 tags = #CNV, #demande, #erreur, #exigence, #prendre_soin_de
+<!-- Related : -->
+[[202007312152 Faire une demande]]
 
 Différenciation croire prendre soin de l'autre, et être à l'écoute de l'autre, et prendre soin des besoins de l'autre. Souvent, on fait attention à l'autre en pensant à sa place, ce qui serait le mieux pour l'autre. Finalement, c'est un jeu de pouvoir / domination, basé sur le mental. On lui impose un choix qui n'est pas le sien, sous prétexte de c'est pour ton bien.
 

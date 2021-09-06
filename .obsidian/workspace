@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "adf60e54718924c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae8ff497faa1011",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "001_index.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9aa0e5221caf94a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f3a8577647fca9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c3c827f71af110",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbf7123d1b41baf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "reference",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd12ef3b811aeb36",
+    "type": "split",
+    "children": [
+      {
+        "id": "43d37f36feca4b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2cab813e84e915",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001_index.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ae8ff497faa1011",
+  "lastOpenFiles": [
+    "001_index.md.md",
+    "202007312139 Jeux de pouvoir et authenticité.md",
+    "202007302239 se changer.md",
+    "202007302317 Langage universel de l'écoute inconditionnel.md",
+    "202103240951 Bienveillance.md",
+    "202103231453 Devenez le parfait imparfait et prenez soin de vous.md",
+    "202103240945 Sentez l'expérience.md",
+    "202103251027 coaching vs conseil.md",
+    "202103282037 parler de soi et guérir.md",
+    "202103282042 parler pour etre ecouter.md"
+  ]
+}

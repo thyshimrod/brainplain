@@ -1,4 +1,4 @@
-# Pratique de coaching
+# Pratique de coaching de la negation à la volonte
 tags = #coaching, #pratique, #puissance
 
 L'écouté doit sortir des formes négatives. Plutôt que de se concentrer sur ce qu'il ne veut pas, il faut l'amener à ce qu'il veut.

@@ -1,6 +1,9 @@
 # La bonne distance de coaching
 tags = #coaching, #distance, #proximite
 
+<!-- Related: -->
+[[202007302310 écouter pleinement]]
+
 Il faut être associé & dissocié.
 
 Etre en proximité, et rester à distance.
