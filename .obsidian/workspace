@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae8ff497faa1011",
+        "id": "a58183441ec0d220",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001_index.md.md",
+            "file": "202109141108 La colere au dessus des sentiments.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reference",
+                "query": "auto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001_index.md.md",
+                "file": "202109141108 La colere au dessus des sentiments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ae8ff497faa1011",
+  "active": "a58183441ec0d220",
   "lastOpenFiles": [
+    "202109141108 La colere au dessus des sentiments.md",
+    "202007312156 auto empathie.md",
+    "202007312126.md",
+    "202007302255 Les professionnels de la destruction de relation.md",
     "001_index.md.md",
-    "202007312139 Jeux de pouvoir et authenticité.md",
-    "202007302239 se changer.md",
-    "202007302317 Langage universel de l'écoute inconditionnel.md",
-    "202103240951 Bienveillance.md",
-    "202103231453 Devenez le parfait imparfait et prenez soin de vous.md",
-    "202103240945 Sentez l'expérience.md",
-    "202103251027 coaching vs conseil.md",
-    "202103282037 parler de soi et guérir.md",
-    "202103282042 parler pour etre ecouter.md"
+    "202007312151 colère CNV.md",
+    "202109031338 Puissance de corps et d'esprit.md",
+    "202108272100 image de soi, premier contact.md",
+    "Untitled.md",
+    "202007312139 Jeux de pouvoir et authenticité.md"
   ]
 }
