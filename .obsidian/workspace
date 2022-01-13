@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202109141108 La colere au dessus des sentiments.md",
-            "mode": "source"
+            "file": "202111101154 coach vert coach jaune.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "auto",
+                "query": "tag:#colere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202109141108 La colere au dessus des sentiments.md",
+                "file": "202111101154 coach vert coach jaune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,35 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "98730c089032b29c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a58183441ec0d220",
   "lastOpenFiles": [
-    "202109141108 La colere au dessus des sentiments.md",
-    "202007312156 auto empathie.md",
-    "202007312126.md",
-    "202007302255 Les professionnels de la destruction de relation.md",
-    "001_index.md.md",
-    "202007312151 colère CNV.md",
-    "202109031338 Puissance de corps et d'esprit.md",
-    "202108272100 image de soi, premier contact.md",
-    "Untitled.md",
-    "202007312139 Jeux de pouvoir et authenticité.md"
+    "202111101154 coach vert coach jaune.md",
+    "202110251057 unique strategie entraine la souffrance.md",
+    "202110251055 creer une relation et s adapater.md",
+    "book notes/202109171511 OKR au service du produit.md",
+    "notes/202109141108 La colere au dessus des sentiments.md",
+    "references/202109081338 etape transfo.md",
+    "notes/202109031338 Puissance de corps et d'esprit.md",
+    "blog post/202108272100 image de soi, premier contact.md",
+    "book notes/202108261521 Jeu et énergie.md",
+    "book notes/202107071115 Desordre et estime de soi.md"
   ]
 }
