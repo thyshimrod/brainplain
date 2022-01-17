@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202111101154 coach vert coach jaune.md",
-            "mode": "preview"
+            "file": "cnv books/202201141555 Stimulus.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202111101154 coach vert coach jaune.md",
+                "file": "cnv books/202201141555 Stimulus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,23 +90,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "a58183441ec0d220",
   "lastOpenFiles": [
+    "cnv books/202201141555 Stimulus.md",
+    "cnv books/PrecisDeCnv.md",
+    "cnv books/202201140952 Ecoute Empathique.md",
     "202111101154 coach vert coach jaune.md",
     "202110251057 unique strategie entraine la souffrance.md",
     "202110251055 creer une relation et s adapater.md",
     "book notes/202109171511 OKR au service du produit.md",
     "notes/202109141108 La colere au dessus des sentiments.md",
     "references/202109081338 etape transfo.md",
-    "notes/202109031338 Puissance de corps et d'esprit.md",
-    "blog post/202108272100 image de soi, premier contact.md",
-    "book notes/202108261521 Jeu et énergie.md",
-    "book notes/202107071115 Desordre et estime de soi.md"
+    "notes/202109031338 Puissance de corps et d'esprit.md"
   ]
 }
