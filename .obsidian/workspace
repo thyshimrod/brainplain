@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/202110251057 unique strategie entraine la souffrance.md",
+            "file": "blog post/202201192138 douceur transfo.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#colere",
+                "query": "tag:#pogi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/202110251057 unique strategie entraine la souffrance.md",
+                "file": "blog post/202201192138 douceur transfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a58183441ec0d220",
   "lastOpenFiles": [
+    "blog post/202201192138 douceur transfo.md",
+    "notes/20220119 douceur transfo.md",
+    "cnv books/202201181543 PourquoiunlivreCNV.md",
+    "cnv books/PrecisDeCnv.md",
+    "homepage/001_index.md.md",
     "notes/202110251057 unique strategie entraine la souffrance.md",
     "notes/202111101154 coach vert coach jaune.md",
     "blog post/202108272100 image de soi, premier contact.md",
     "book notes/202108261521 Jeu et énergie.md",
-    "book notes/202109171511 OKR au service du produit.md",
-    "notes/202103231453 Devenez le parfait imparfait et prenez soin de vous.md",
-    "notes/202103251027 coaching vs conseil.md",
-    "notes/202103282042 parler pour etre ecouter.md",
-    "notes/202109031338 Puissance de corps et d'esprit.md",
-    "notes/202109141108 La colere au dessus des sentiments.md"
+    "book notes/202109171511 OKR au service du produit.md"
   ]
 }
