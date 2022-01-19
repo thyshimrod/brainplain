@@ -1,3 +1,4 @@
+tags : #coaching , #agile , #transformation , #douceur, #injonction, #paradoxe
 # Douceur dans les transformations
 
 Petit constat de ma vie de coach agile. J'aimerai vous aider à prendre un peu de recul, dans vos activités de transformation, d'accompagnement d'équipes, afin de réintégrer de la douceur dans ce que vous faites.
@@ -22,27 +23,25 @@ Les managers doivent porter bien souvent une transformation qu'ils n'ont pas cho
 
 Pour les équipes, il y a de la violence également. De manière implicite, le message véhiculé ressemble fort à "on va vous apprendre à travailler maintenant". Pour autant, le message est souvent bien accueilli car il va avec de nombreuses promesses : "auto gestion", "autonomie", "droit à se gouverner", "plus de valorisation de la production".
 
-Malheureusement, on s'aperçoit souvent qu'on n'aboutit que rarement à cette promesse, et on atteint souvent un plafond de verre. On demande aux équipes des résultats tangibles, de la même manière une non autorisation de réduire la productivité, et donc d'apprendre, de se former, de trouver son équilibre. Et on entend souvent ce reproche de manque d' "agilité" : souplesse, flexibilité, acrobatie.
+Malheureusement, on s'aperçoit souvent qu'on n'aboutit que rarement à cette promesse, et on atteint souvent un plafond de verre. On demande aux équipes des résultats tangibles, hors de la même manière une non autorisation de réduire la productivité, et donc d'apprendre, de se former, de trouver son équilibre. Et on entend souvent ce reproche de manque d' "agilité" : souplesse, flexibilité, acrobatie.
 
 On se retrouve dans la même violence d'injonction.
 
 ## Violence envers les coachs
 
-Pour les coachs, il y a aussi beaucoup de violence dans les transformations. On leur reproche assez rapidement une posture basse, posture d'émergence, qui dénote un manque d'implication dans le résultat. On aimerait d'ailleurs leur demander de participer à la production, eut égard à leur tarif journalier. Et ce sont les premiers qui sont remis en cause, pas assez efficace, pas assez de résultats tangibles, mesurés à partir de Kpi quantitatif. Et on n'aura de cesse de comparer avec l'entreprise ou le département, qui elle/lui est agile.
+Pour les coachs, il y a aussi beaucoup de violence dans les transformations. On nous reproche assez rapidement une posture basse, posture d'émergence, qui dénote un manque d'implication dans le résultat. On aimerait d'ailleurs nous demander de participer à la production, eut égard à notre tarif journalier. Et nous sommes les premiers qui sont remis en cause, pas assez efficace, pas assez de résultats tangibles, mesurés à partir de Kpi quantitatif. Et on n'aura de cesse de comparer avec l'entreprise ou le département, qui elle/lui est agile.
 
 Plusieurs injonctions jouent contre nous : injonction d'aller vite alors que le changement prend forcément du temps, coacher versus produire, faire pareil mais différemment...
 
 ## Résilience
 
-Au final, comme on peut le voir, une transformation contient sa part de violence, si on n'y prend garde. Alors n'hésitez pas à vous souvenir de tout ce qu'on demande à chaque partie, les conditions de mises en oeuvre, le point de départ, et la capacité réelle de l'entreprise à changer de peau. Travailler la résilience de chaque système, vérifier que chaque système est capable de continuer à vivre malgré les chocs endurés.
+Au final, comme on peut le voir, une transformation contient sa part de violence, si on n'y prend garde.
 
-Vous aurez besoin pour cela de soutien (groupe de soutien), d'écoute (à donner et à recevoir), de cadre de sécurité (libre expression, capacité à innover, retrait de la peur de).
+Je prends aujourd'hui beaucoup de recul dans ces démarches de transformation. Je me rends compte du nombre d'injonctions, et du nombre d'injonctions contradictoires que tout le monde reçoit. J'essaye de ne pas y apporter les miennes, et au contraire, de mettre à jour les paradoxes pour apporter de la douceur aux équipes, et non pas une sorte de piège ingérable.
 
-Il est important que chaque sous système puisse trouver son rythme, sa respiration (pouvoir respirer littéralement). Il est fort possible que la transformation soit asynchrone, et que chaque partie évolue à son rythme.
+J'aime à travailler la résilience de chaque sous système, pour qu'elle puisse encaisser les changements, et pouvoir continuer à vivre et à évoluer. Je préconise pour améliorer cette résilience, de mettre en place des groupes de soutien par exemple, d'écoute et d'un cadre de sécurité psychologique, indispensable pour la capacité à changer.
 
-Il vous faudra trouver les moyens de faire des apports d'énergie régulièrement pour nourrir le système, et lui donner l'énergie de continuer à changer. (Pause, donner du sens, célébrations, ...)
-
-Donner leur un cadre, où il est normal aussi de s'arrêter d'apprendre, pour prendre le temps de l'assimilation et de l'intégration, et du repos pour pouvoir réamorcer la machine pour gravir la prochaine marche.
+Il est important que chaque sous système puisse trouver son rythme, sa respiration (pouvoir respirer littéralement). Il est fort possible que la transformation soit asynchrone, et que chaque partie évolue à son rythme. Il est normal de devoir s'arrêter d'apprendre, pour prendre le temps de l'assimilation et de l'intégration, et du repos pour pouvoir réamorcer la machine pour gravir la prochaine marche. Le système a besoin d'énergie pour fonctionner, il ne faut pas hésiter à trouver les moyens de re énergiser par différents moyens (pause, donner du sens, célébrations, maturité d'équipe, intégration,...)
 
 Je ne suis pas un bisounours, mais je me préoccupe du long terme, et non des succès court termistes( sans déconsidérer la démarche des petits pas). C'est une grande chose de changer, il faut beaucoup de douceur, de délicatesse, et de considération, pour éviter qu'une grande vague vienne se fracasser sur ces personnes avec qui nous travaillons et nous emporter dans le même temps.
 
