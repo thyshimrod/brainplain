@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog post/202201192138 douceur transfo.md",
+            "file": "blog post/202202012022 transformation ou adaptation.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pogi",
+                "query": "tag:#PaulWatzlawick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog post/202201192138 douceur transfo.md",
+                "file": "blog post/202202012022 transformation ou adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
   },
   "active": "a58183441ec0d220",
   "lastOpenFiles": [
+    "blog post/202202012022 transformation ou adaptation.md",
+    "references/202106181353 Faire plus de la meme chose.md",
+    "book notes/202007312126 spirale dynamique orange.md",
+    "blog post/202202012002 temps exemplarité.md",
+    "notes/202202012001 agilite dev perso et temps present.md",
+    "notes/202201022000 dev perso, exigence a la perfection.md",
+    "notes/202201021959 emotion et vie pro.md",
+    "notes/202102011958 temps present, vivre pour soi, egoisme.md",
     "blog post/202201192138 douceur transfo.md",
-    "notes/20220119 douceur transfo.md",
-    "cnv books/202201181543 PourquoiunlivreCNV.md",
-    "cnv books/PrecisDeCnv.md",
-    "homepage/001_index.md.md",
-    "notes/202110251057 unique strategie entraine la souffrance.md",
-    "notes/202111101154 coach vert coach jaune.md",
-    "blog post/202108272100 image de soi, premier contact.md",
-    "book notes/202108261521 Jeu et énergie.md",
-    "book notes/202109171511 OKR au service du produit.md"
+    "notes/20220119 douceur transfo.md"
   ]
 }
