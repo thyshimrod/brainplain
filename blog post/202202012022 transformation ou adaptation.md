@@ -17,7 +17,7 @@ En tant qu'agiliste, je soutiens l'épanouissement des individus et des interact
 
 Dans une démarche, dite de transformation, le but ne serait pas de faire table rase, mais bien d'intégrer des nouveaux concepts à leur prédécesseur. Nous le voyons bien, il n'est pas possible de supprimer 20, ou 30 ans d'existence dans un autre mode, juste en le décrétant.
 
-Ce n'est pas une coexistence à proprement parler, mais d'une adaptation, et une intégration de nouveaux concepts.
+Ce n'est pas une coexistence à proprement parler, mais une adaptation, et une intégration de nouveaux concepts.
 
 **Intégration à la performance**
 
