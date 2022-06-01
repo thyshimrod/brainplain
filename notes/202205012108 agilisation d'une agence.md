@@ -1,6 +1,6 @@
 #POGI, #agile, #organisation, #agence, #management, #changement, #transformation, #homéostasie
 
-status : #status/wip 
+status : #status/done  
 
 Plusieurs points à travailler
 

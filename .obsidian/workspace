@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a58183441ec0d220",
+        "id": "9c2f5c5ee86e2582",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/202205040859 emotion correctrice.md",
+            "file": "blog post/202205300951 pression vs priorisation.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conway",
+                "query": "tag:#status/wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/202205040859 emotion correctrice.md",
+                "file": "blog post/202205300951 pression vs priorisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,25 +89,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "3c647b46a5c1e4a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a58183441ec0d220",
+  "active": "9c2f5c5ee86e2582",
   "lastOpenFiles": [
-    "notes/202205040859 emotion correctrice.md",
-    "notes/202205040910 hpi empathie.md",
-    "notes/202205012108 agilisation d'une agence.md",
-    "notes/202103282042 parler pour etre ecouter.md",
-    "notes/202103251027 coaching vs conseil.md",
-    "notes/202103231453 Devenez le parfait imparfait et prenez soin de vous.md",
-    "notes/202102011958 temps present, vivre pour soi, egoisme.md",
-    "notes/202007312204 Exemple pour un même stimulus, des besoins peuvent différer d'une personne à une autre.md",
-    "blog post/Untitled.md",
-    "notes/202110251057 unique strategie entraine la souffrance.md"
+    "blog post/202205300951 pression vs priorisation.md",
+    "book notes/20225301520 switch osez le changement.md",
+    "book notes/202203081040 Chapter lead.md",
+    "book notes/202007312212 Type 3 le compétiteur.md",
+    "book notes/202007312126 spirale dynamique orange.md",
+    "book notes/202007312124 Spirale dynamique Turquoise.md",
+    "book notes/202007302304 demande à l'univers.md",
+    "book notes/202007302255 Les professionnels de la destruction de relation.md",
+    "book notes/202007302241 Origine des pbs émotionnels.md",
+    "book notes/202007302240 détresse psychologique et pensées.md"
   ]
 }
