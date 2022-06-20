@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog post/202205300951 pression vs priorisation.md",
+            "file": "blog post/202206161544 agile lourd.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog post/202205300951 pression vs priorisation.md",
+                "file": "blog post/202206161544 agile lourd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9c2f5c5ee86e2582",
   "lastOpenFiles": [
-    "blog post/202205300951 pression vs priorisation.md",
-    "book notes/20225301520 switch osez le changement.md",
-    "book notes/202203081040 Chapter lead.md",
-    "book notes/202007312212 Type 3 le compétiteur.md",
-    "book notes/202007312126 spirale dynamique orange.md",
-    "book notes/202007312124 Spirale dynamique Turquoise.md",
-    "book notes/202007302304 demande à l'univers.md",
-    "book notes/202007302255 Les professionnels de la destruction de relation.md",
-    "book notes/202007302241 Origine des pbs émotionnels.md",
-    "book notes/202007302240 détresse psychologique et pensées.md"
+    "blog post/202206161544 agile lourd.md",
+    "blog post/202206022127 implicite, explicite, manipulation, resistance.md",
+    "notes/202206101013 homeostasie de groupe.md",
+    "notes/202205012108 agilisation d'une agence.md",
+    "notes/202205040859 emotion correctrice.md",
+    "notes/202201021959 emotion et vie pro.md",
+    "notes/202110251057 unique strategie entraine la souffrance.md",
+    "notes/202110251055 creer une relation et s adapater.md",
+    "notes/202109141108 La colere au dessus des sentiments.md",
+    "notes/202109031338 Puissance de corps et d'esprit.md"
   ]
 }

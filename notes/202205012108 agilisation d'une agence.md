@@ -6,7 +6,7 @@ Plusieurs points à travailler
 
 Entamer un changement doit servir à atteindre un but. Quel but peut on atteindre?
 --> Identifier les peines pour mieux appréhender les buts
-Pour autant, on peut entamer des changements, tant qu'ils ne sont pas importants. Un changement important ne peut se faire que s'il y a une nécessité. L'envie ne suffit pas --> confère l'homéostasie naturelle. <-- l'homéostasie comprend le besoin de sécurité. Créer du changement génère de l'angoisse : quel est ma place, ma reconnaissance, est ce qu'on va toujours m'aimer?
+Pour autant, on peut entamer des changements, tant qu'ils ne sont pas importants. Un changement important ne peut se faire que s'il y a une nécessité. L'envie ne suffit pas --> confère l'homéostasie naturelle. <-- l'homéostasie comprend le besoin de sécurité. Créer du changement génère de l'angoisse : quelle est ma place, ma reconnaissance, est ce qu'on va toujours m'aimer?
 
 Deuxième clef : quelle est la culture? SD : plutôt orange/vert. Le vert va tendre à être trop gentil et consensuel, donc va orienter vers une homéostasie en vertue du bien être commun. L'orange va vouloir une vision concrète de quelque chose à gagner pour bouger. Dépenser de l'énergie pour gagner c'est OK, même si c'est incertain (challenge).
 Pas suffisamment de jaunes à date pour créer de l'excitation, et de l'envie d'essayer des choses en vertu du  bien commun, du but non lucratif.
