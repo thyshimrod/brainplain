@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "blog post/202206161544 agile lourd.md",
-            "mode": "source"
+            "file": "book notes/202007302255 Les professionnels de la destruction de relation.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#status/wip",
+                "query": "amour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 525
   },
   "right": {
     "id": "dd12ef3b811aeb36",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog post/202206161544 agile lourd.md",
+                "file": "book notes/202007302255 Les professionnels de la destruction de relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c2f5c5ee86e2582",
+  "active": "80c3c827f71af110",
   "lastOpenFiles": [
+    "book notes/202007302318 expression authentique.md",
+    "book notes/202007312125 spirale dynamique vert.md",
+    "book notes/202007312126 spirale dynamique bleu.md",
+    "book notes/202007302237 Rester dans le présent, changement comportementale.md",
+    "book notes/20225301520 switch osez le changement.md",
+    "notes/202109031338 Puissance de corps et d'esprit.md",
+    "blog post/202209281643 attente exigence frustration.md",
+    "blog post/202202012002 temps exemplarité.md",
     "blog post/202206161544 agile lourd.md",
-    "blog post/202206022127 implicite, explicite, manipulation, resistance.md",
-    "notes/202206101013 homeostasie de groupe.md",
-    "notes/202205012108 agilisation d'une agence.md",
-    "notes/202205040859 emotion correctrice.md",
-    "notes/202201021959 emotion et vie pro.md",
-    "notes/202110251057 unique strategie entraine la souffrance.md",
-    "notes/202110251055 creer une relation et s adapater.md",
-    "notes/202109141108 La colere au dessus des sentiments.md",
-    "notes/202109031338 Puissance de corps et d'esprit.md"
+    "blog post/202206022127 implicite, explicite, manipulation, resistance.md"
   ]
 }
