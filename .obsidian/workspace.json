@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9c2f5c5ee86e2582",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "blog post/20221025741 prendre des décisions.md",
-            "mode": "source",
-            "source": false
+        "id": "880211aa89f201e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2f5c5ee86e2582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog post/20221025741 prendre des décisions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d1c67e01a7acab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog post/20221025741 prendre des décisions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -107,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c2f5c5ee86e2582",
+  "active": "0d1c67e01a7acab7",
   "lastOpenFiles": [
+    "blog post/202206231025 transfo forme fond.md",
     "blog post/202209281643 attente exigence frustration.md",
     "book notes/202007302255 Les professionnels de la destruction de relation.md",
     "book notes/202007302318 expression authentique.md",
@@ -117,7 +139,6 @@
     "book notes/202007302237 Rester dans le présent, changement comportementale.md",
     "book notes/20225301520 switch osez le changement.md",
     "notes/202109031338 Puissance de corps et d'esprit.md",
-    "blog post/202202012002 temps exemplarité.md",
-    "blog post/202206161544 agile lourd.md"
+    "blog post/202202012002 temps exemplarité.md"
   ]
 }
