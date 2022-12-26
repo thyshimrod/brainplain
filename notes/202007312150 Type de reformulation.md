@@ -1,4 +1,4 @@
-# La reformulation
+# Type de reformulation
 tags = #coaching, #reformulation, #outils
 
 **Reformulation écho**

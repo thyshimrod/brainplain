@@ -2,7 +2,7 @@
 tags = #reformulation
 
 <!-- Related -->
-[[202007312150 La reformulation]]
+[[202007312150 Type de reformulation]]
 
 La reformulation :
 
