@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ef95994f85ca452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book notes/202201111042 TOB - théorie des organisations de Berne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/202211101508 decision.md",
+                "file": "book notes/202201111042 TOB - théorie des organisations de Berne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,8 +131,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a58183441ec0d220",
+  "active": "5ef95994f85ca452",
   "lastOpenFiles": [
+    "notes/202211101508 decision.md",
     "notes/202110251057 unique strategie entraine la souffrance.md",
     "notes/202111101154 coach vert coach jaune.md",
     "blog post/202108272100 image de soi, premier contact.md",
@@ -128,7 +142,6 @@
     "notes/202103231453 Devenez le parfait imparfait et prenez soin de vous.md",
     "notes/202103251027 coaching vs conseil.md",
     "notes/202103282042 parler pour etre ecouter.md",
-    "notes/202109031338 Puissance de corps et d'esprit.md",
-    "notes/202109141108 La colere au dessus des sentiments.md"
+    "notes/202109031338 Puissance de corps et d'esprit.md"
   ]
 }
