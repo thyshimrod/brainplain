@@ -1,5 +1,8 @@
 
 Une transformation, c'est aussi prendre soin de soi et des autres. Le manager a une place importante dans le fait de rendre une transformation écologique, en commençant par lui même. J'aimerai apporter via des outils comme la spirale dynamique, l'analyse transactionnelle, des clefs permettant au manager de se préserver mais aussi d'accompagner plus justement ses équipes. Il s'agit d'utiliser la juste énergie pour aller vers un résultat plus juste.
 La spirale dynamique et les stades de maturité d'équipes sont des outils très intéressants pour évaluer ce dont a besoin une équipe pour grandir et aller vers l'auto gestion. En faisant ce diagnostic, le manager saura quels sont les points d'attention dans lesquels il aura besoin de mettre son énergie, en respectant les besoins et le rythme de ses équipes. 
-Est ce que proposer l'autonomie et la responsabilisation a du sens, alors que l'équipe est en insécurité psychologique? Est ce que proposer des OKRs a du sens, alors qu'il n'y a pas de fondation collective dans les équipes?
+
 Je vous propose une fresque présentant les grandes étapes d'accompagnement, en y attachant les moments où le besoin d'énergie est minimale pour proposer de nouveaux concepts aux équipes (autonomie, okr, auto gestion).
+Est ce que proposer l'autonomie et la responsabilisation a du sens, alors que l'équipe est en insécurité psychologique? Est ce que proposer des OKRs a du sens, alors qu'il n'y a pas de fondation collective dans les équipes?
+Le manager a une place importante dans le fait de rendre une transformation écologique, en commençant par lui même. Il s'agit d'utiliser la juste énergie pour aller vers un résultat plus juste.
+En utilisant la théorie de la spirale dynamique, je vous propose de comprendre quels sont les efforts qu'il faut fournir pour respecter les besoins et le rythme de ses équipes.

@@ -66,9 +66,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9053335bfa6b405b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "723b318e3d694c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/202308161112 Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#colere",
+                "query": "tag:#evolution",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +127,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f47eaefb5cb2d056",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "others/CtP Agile Lille 2023 La transition énergétique du manager - aller vers l'autogestion.md",
+                "file": "notes/202308161112 Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6a8ce30590ab326",
+  "active": "cbf7123d1b41baf3",
   "lastOpenFiles": [
+    "notes/202308161112 Evaluation.md",
+    "notes/202304051708 sabotage de décision.md",
     "notes/202303022115 autonomie, fourmis.md",
     "202309021414 Manipulation et exemplarité.md",
     "book notes/202201111042 TOB - théorie des organisations de Berne.md",
