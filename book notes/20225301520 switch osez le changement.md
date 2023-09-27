@@ -1,4 +1,4 @@
-#changement , #transformation 
+#changement , #transformation , #resistance , #coaching 
 
 reference : switch, osez le changement
 

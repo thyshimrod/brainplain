@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2a571f73fad612b",
+        "id": "a35750fbd1de9231",
         "type": "tabs",
         "children": [
           {
-            "id": "a58183441ec0d220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/202211101508 decision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef95994f85ca452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book notes/202201111042 TOB - théorie des organisations de Berne.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42fa6ebec1b0b9b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202309021414 Manipulation et exemplarité.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04d3701711bba638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/202303022115 autonomie, fourmis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6a8ce30590ab326",
+            "id": "d67ef061d76d72ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9053335bfa6b405b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "723b318e3d694c6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/202308161112 Evaluation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#evolution",
+                "query": "wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/202308161112 Evaluation.md",
+                "file": "others/CtP Agile Lille 2023 La transition énergétique du manager - aller vers l'autogestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,14 +126,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbf7123d1b41baf3",
+  "active": "d67ef061d76d72ac",
   "lastOpenFiles": [
+    "notes/202320062149 trouver ses besoins.md",
+    "202320062149 trouver ses besoins.md",
+    "book notes/202309271311 blessure de l'ame.md",
+    "notes/202309021414 Manipulation et exemplarité.md",
+    "202309021414 Manipulation et exemplarité.md",
+    "notes/202205040859 emotion correctrice.md",
+    "blog post/202202012002 temps exemplarité.md",
+    "blog post/202308031512 Apprenti coach - Besoin, solution et problème.md",
+    "book notes/202307061431 Shame Guilt Anger.md",
+    "book notes/20225301520 switch osez le changement.md",
+    "cnv books/202201140952 Ecoute Empathique.md",
+    "cnv books/PrecisDeCnv.md",
+    "cnv books/202201181543 PourquoiunlivreCNV.md",
+    "cnv books/202201141555 Stimulus.md",
+    "notes/202306202142 Posture basse.md",
     "notes/202308161112 Evaluation.md",
+    "notes/202211101508 decision.md",
     "notes/202304051708 sabotage de décision.md",
     "notes/202303022115 autonomie, fourmis.md",
-    "202309021414 Manipulation et exemplarité.md",
     "book notes/202201111042 TOB - théorie des organisations de Berne.md",
-    "notes/202211101508 decision.md",
     "notes/202110251057 unique strategie entraine la souffrance.md",
     "notes/202111101154 coach vert coach jaune.md",
     "blog post/202108272100 image de soi, premier contact.md",

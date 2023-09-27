@@ -1,10 +1,10 @@
 #systemique , #CNV, #emotions , #changement , #coaching , #homéostasie, #pogi 
 
-status : #status/wip  
+status : #status/done 
 
 La CNV est un processus qui permet de se relier à ses émotions. Il y a un processus d'accueil et de soutien.
 
-L'approche systémique tend à dire, que vivre une émoition suffisamment intense va permettre au coaché de déclencher un mouvement.
+L'approche systémique tend à dire, que vivre une émotion suffisamment intense va permettre au coaché de déclencher un mouvement.
 
 L'approche systémique tend à dire également que le soutien peut être un renfort à l'homéostasie du client. Il faut être attentif à être soutenant, tout en laissant le coaché vivre son émotion dans son intensité.
 
