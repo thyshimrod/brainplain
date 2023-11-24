@@ -1,7 +1,5 @@
 #pogi , #CNV , #strategie, #besoin,  
 
-Status : #status/done  
-
 Ce que nous apprend la CNV, est que notre vie est guidée par des besoins. Et nos émotions sont liés à ces besoins, qui nous indique s'il faut prendre soin ou non de ces besoins.
 Effectivement, quand un besoin a besoin d'être nourri, notre être est triste, en colère, ... pour nous dire, il y a quelque chose que je devrai faire pour me sentir mieux, quelque chose en moi qui a besoin d'être nourri.
 

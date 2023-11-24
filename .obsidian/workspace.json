@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a35750fbd1de9231",
+        "id": "5b90ac6bae64082b",
         "type": "tabs",
         "children": [
           {
-            "id": "d67ef061d76d72ac",
+            "id": "8b20ce78ad76f3e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "others/CtP Agile Lille 2023 La transition énergétique du manager - aller vers l'autogestion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wip",
+                "query": "tag:#authentique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "others/CtP Agile Lille 2023 La transition énergétique du manager - aller vers l'autogestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,33 +121,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d67ef061d76d72ac",
+  "active": "8b20ce78ad76f3e0",
   "lastOpenFiles": [
+    "notes/202311241016 jeux psychologiques 2.md",
+    "notes/202311231056 jeux psy listes.md",
+    "video notes/202311212059 commencer par soi.md",
+    "video notes",
+    "notes/202205040859 emotion correctrice.md",
+    "notes/202311202131 Mere Theresa quote.md",
+    "notes/202311202137 ARistote Vocation.md",
+    "notes/202311202116 Reves Peur.md",
+    "notes/202205012108 agilisation d'une agence.md",
+    "cnv books/202201140952 Ecoute Empathique.md",
+    "notes/202110251057 unique strategie entraine la souffrance.md",
+    "notes/202310102126 Imposer sa souffrance a autrui.md",
+    "others/CtP Agile Lille 2023 La transition énergétique du manager - aller vers l'autogestion.md",
     "notes/202320062149 trouver ses besoins.md",
     "202320062149 trouver ses besoins.md",
     "book notes/202309271311 blessure de l'ame.md",
     "notes/202309021414 Manipulation et exemplarité.md",
     "202309021414 Manipulation et exemplarité.md",
-    "notes/202205040859 emotion correctrice.md",
     "blog post/202202012002 temps exemplarité.md",
     "blog post/202308031512 Apprenti coach - Besoin, solution et problème.md",
     "book notes/202307061431 Shame Guilt Anger.md",
     "book notes/20225301520 switch osez le changement.md",
-    "cnv books/202201140952 Ecoute Empathique.md",
     "cnv books/PrecisDeCnv.md",
     "cnv books/202201181543 PourquoiunlivreCNV.md",
     "cnv books/202201141555 Stimulus.md",
     "notes/202306202142 Posture basse.md",
-    "notes/202308161112 Evaluation.md",
-    "notes/202211101508 decision.md",
-    "notes/202304051708 sabotage de décision.md",
-    "notes/202303022115 autonomie, fourmis.md",
-    "book notes/202201111042 TOB - théorie des organisations de Berne.md",
-    "notes/202110251057 unique strategie entraine la souffrance.md",
-    "notes/202111101154 coach vert coach jaune.md",
-    "blog post/202108272100 image de soi, premier contact.md",
-    "book notes/202108261521 Jeu et énergie.md",
-    "book notes/202109171511 OKR au service du produit.md",
-    "notes/202103231453 Devenez le parfait imparfait et prenez soin de vous.md"
+    "notes/202308161112 Evaluation.md"
   ]
 }

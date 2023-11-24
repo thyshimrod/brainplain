@@ -1,0 +1,6 @@
+
+#citation, #vocation, #talent, #aristote, #besoin , #monde
+
+là où vos talents et les besoins du monde se rencontrent, là se trouve votre vocation.
+
+– Aristote

@@ -1,7 +1,5 @@
 #POGI, #agile, #organisation, #agence, #management, #changement, #transformation, #homéostasie
 
-status : #status/done  
-
 Plusieurs points à travailler
 
 Entamer un changement doit servir à atteindre un but. Quel but peut on atteindre?

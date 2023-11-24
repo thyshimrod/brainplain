@@ -1,6 +1,5 @@
 #pogi , #CNV , #ecoute, #empathie , #cnvbook
 
-Status : #status/done 
 
 # Ecoute empathique
 
