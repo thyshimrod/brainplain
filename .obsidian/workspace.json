@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5b90ac6bae64082b",
+        "id": "7dfe3967261415c4",
         "type": "tabs",
         "children": [
           {
-            "id": "8b20ce78ad76f3e0",
+            "id": "e5809e1bf0fdb555",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "book notes/202307061431 Shame Guilt Anger.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book notes/202307061431 Shame Guilt Anger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +126,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b20ce78ad76f3e0",
+  "active": "e5809e1bf0fdb555",
   "lastOpenFiles": [
+    "202312032152 Shame, Guily, Anger - Honte.md",
+    "book notes/202312032152 Shame, Guily, Anger - Honte.md",
+    "book notes/202307061431 Shame Guilt Anger.md",
+    "notes/202311291826 confort de ne pas changer.md",
     "notes/202311241016 jeux psychologiques 2.md",
     "notes/202311231056 jeux psy listes.md",
     "video notes/202311212059 commencer par soi.md",
@@ -143,12 +152,8 @@
     "202309021414 Manipulation et exemplarité.md",
     "blog post/202202012002 temps exemplarité.md",
     "blog post/202308031512 Apprenti coach - Besoin, solution et problème.md",
-    "book notes/202307061431 Shame Guilt Anger.md",
     "book notes/20225301520 switch osez le changement.md",
     "cnv books/PrecisDeCnv.md",
-    "cnv books/202201181543 PourquoiunlivreCNV.md",
-    "cnv books/202201141555 Stimulus.md",
-    "notes/202306202142 Posture basse.md",
-    "notes/202308161112 Evaluation.md"
+    "cnv books/202201181543 PourquoiunlivreCNV.md"
   ]
 }
