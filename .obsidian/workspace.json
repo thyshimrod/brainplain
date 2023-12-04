@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfe3967261415c4",
+        "id": "bfd7ff6c5de03d84",
         "type": "tabs",
         "children": [
           {
-            "id": "e5809e1bf0fdb555",
+            "id": "d9aa2cda2b421129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book notes/202307061431 Shame Guilt Anger.md",
+                "file": "bio/202312042028 histoire 01.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dd12ef3b811aeb36",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book notes/202307061431 Shame Guilt Anger.md",
+                "file": "bio/202312042028 histoire 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +127,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5809e1bf0fdb555",
+  "active": "d9aa2cda2b421129",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "bio/202312042028 histoire 01.md",
+    "book notes/202307061431 Shame Guilt Anger.md",
+    "bio",
     "202312032152 Shame, Guily, Anger - Honte.md",
     "book notes/202312032152 Shame, Guily, Anger - Honte.md",
-    "book notes/202307061431 Shame Guilt Anger.md",
     "notes/202311291826 confort de ne pas changer.md",
     "notes/202311241016 jeux psychologiques 2.md",
     "notes/202311231056 jeux psy listes.md",
@@ -152,8 +157,6 @@
     "202309021414 Manipulation et exemplarité.md",
     "blog post/202202012002 temps exemplarité.md",
     "blog post/202308031512 Apprenti coach - Besoin, solution et problème.md",
-    "book notes/20225301520 switch osez le changement.md",
-    "cnv books/PrecisDeCnv.md",
-    "cnv books/202201181543 PourquoiunlivreCNV.md"
+    "book notes/20225301520 switch osez le changement.md"
   ]
 }
