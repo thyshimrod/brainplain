@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd7ff6c5de03d84",
+        "id": "8b795772ca192599",
         "type": "tabs",
         "children": [
           {
-            "id": "d9aa2cda2b421129",
+            "id": "a89735867ec4f069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bio/202312042028 histoire 01.md",
+                "file": "book notes/202401300852 cracking the communication code.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dd12ef3b811aeb36",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bio/202312042028 histoire 01.md",
+                "file": "book notes/202401300852 cracking the communication code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +107,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,36 +125,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d9aa2cda2b421129",
+  "active": "a89735867ec4f069",
   "lastOpenFiles": [
+    "cnv books/Mon chemin de CNV.md",
+    "book notes/202401300852 cracking the communication code.md",
+    "cnv books/202418011246 CNVPATH Introduction.md",
+    "Introduction.md",
+    "cnv books/PrecisDeCnv.md",
+    "book notes/202401012116 Loi de l'attraction.md",
+    "notes/202401021530 Feedback.md",
+    "notes/202312172202 Etat du moi pour le type 7.md",
+    "notes/202312152140 Enneagramme type 7.md",
+    "notes/202312152149 tips for type 7.md",
+    "book notes/20225301520 switch osez le changement.md",
+    "Enneagramme type 7.md",
+    "202401012116 Loi de l'attraction.md",
+    "202312172202 Etat du moi pour le type 7.md",
+    "blog post/202209281643 attente exigence frustration.md",
+    "bio/202312130825 dream inspiration.md",
+    "bio/202312042028 histoire 01.md",
+    "notes/202312061630 Vivre sa relation avec un type eneagramme.md",
+    "book notes/202203081040 Chapter lead.md",
+    "202312061630 Vivre sa relation avec un type eneagramme.md",
+    "book notes/202312051641 citation paulo coehlo routine.md",
+    "notes/202305120918 stimulus pour l'autre.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "bio/202312042028 histoire 01.md",
     "book notes/202307061431 Shame Guilt Anger.md",
     "bio",
     "202312032152 Shame, Guily, Anger - Honte.md",
     "book notes/202312032152 Shame, Guily, Anger - Honte.md",
     "notes/202311291826 confort de ne pas changer.md",
-    "notes/202311241016 jeux psychologiques 2.md",
-    "notes/202311231056 jeux psy listes.md",
-    "video notes/202311212059 commencer par soi.md",
-    "video notes",
-    "notes/202205040859 emotion correctrice.md",
-    "notes/202311202131 Mere Theresa quote.md",
-    "notes/202311202137 ARistote Vocation.md",
-    "notes/202311202116 Reves Peur.md",
-    "notes/202205012108 agilisation d'une agence.md",
-    "cnv books/202201140952 Ecoute Empathique.md",
-    "notes/202110251057 unique strategie entraine la souffrance.md",
-    "notes/202310102126 Imposer sa souffrance a autrui.md",
-    "others/CtP Agile Lille 2023 La transition énergétique du manager - aller vers l'autogestion.md",
-    "notes/202320062149 trouver ses besoins.md",
-    "202320062149 trouver ses besoins.md",
-    "book notes/202309271311 blessure de l'ame.md",
-    "notes/202309021414 Manipulation et exemplarité.md",
-    "202309021414 Manipulation et exemplarité.md",
-    "blog post/202202012002 temps exemplarité.md",
-    "blog post/202308031512 Apprenti coach - Besoin, solution et problème.md",
-    "book notes/20225301520 switch osez le changement.md"
+    "video notes"
   ]
 }
