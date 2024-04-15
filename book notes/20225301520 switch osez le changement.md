@@ -6,7 +6,7 @@ Il est parfois possible de faire d'un problème difficile (changer de mindset), 
 Ce qui semble être un problème de personne ou d'habitude est souvent, en réalité, un problème de situation. Donc en changeant la situation, on peut amener quelqu'un a changer son comportement.
 
 C'est grâce à l'éléphant que vous poussez un changement. Progresser vers un but, nécessite l'énergie et le dynamisme de l'éléphant. Le conducteur a tendance à trop analyser et à réfléchir au lieu d'agir.
-Mais il vous faut les deux. Le conducteur prévoir et dirige, l'éléphant fournit l'énergie.
+Mais il vous faut les deux. Le conducteur prévoit et dirige, l'éléphant fournit l'énergie.
 Si vous ne stimulez que le conducteur, les gens auront une bonne compréhension de la situation mais pas la motivation.
 Si vous ne stimulez que l'éléphant, ils seront passionnés, mais leur énergie ne sera pas canalisée.
 
@@ -24,7 +24,7 @@ Dans les moments difficiles, le conducteur voit des problèmes partout, et bien 
 
 A chaque fois qu'on identifie un élément prometteur, il s'agit de le reproduire.
 
-Paralysie de la décision, le fait d'être confronté à davante de possibilités, mêmes si elles sont appréciables, peut nous bloquer, et nous inciter à en revenir à l'option par défaut.
+Paralysie de la décision, le fait d'être confronté à davantage de possibilités, mêmes si elles sont appréciables, peut nous bloquer, et nous inciter à en revenir à l'option par défaut.
 Plus le conducteur a le choix, plus il s'épuise.
 N'avez vous jamais remarqué que faire les courses était bien plus fatiguant que d'autres activités? C'est à cause de tous ces choix.
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b795772ca192599",
+        "id": "e95668cf090fdafa",
         "type": "tabs",
         "children": [
           {
-            "id": "a89735867ec4f069",
+            "id": "392eff885636b328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book notes/202401300852 cracking the communication code.md",
+                "file": "notes/202404151531 posture de leader selon SD.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#authentique",
+                "query": "energie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book notes/202401300852 cracking the communication code.md",
+                "file": "notes/202404151531 posture de leader selon SD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,40 +122,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a89735867ec4f069",
+  "active": "392eff885636b328",
   "lastOpenFiles": [
+    "notes/202404151507 énergie et leadership.md",
+    "notes/202404151531 posture de leader selon SD.md",
+    "notes/202404041051 Priere du changemaker.md",
+    "video notes/202311212059 commencer par soi.md",
+    "transfo/20240326 mainpage transfo.md",
+    "transfo/Elements_de_transition_culture.md",
+    "transfo/SDDifference_entreprise_niveau_orange_et_vert.md",
+    "transfo/SDFaire.md",
+    "transfo/Untitled.md",
     "cnv books/Mon chemin de CNV.md",
-    "book notes/202401300852 cracking the communication code.md",
-    "cnv books/202418011246 CNVPATH Introduction.md",
-    "Introduction.md",
-    "cnv books/PrecisDeCnv.md",
-    "book notes/202401012116 Loi de l'attraction.md",
-    "notes/202401021530 Feedback.md",
-    "notes/202312172202 Etat du moi pour le type 7.md",
-    "notes/202312152140 Enneagramme type 7.md",
-    "notes/202312152149 tips for type 7.md",
+    "notes/202403251239 decision et insecurite.md",
+    "transfo",
+    "notes/202403241704 organisation matricielle.md",
+    "notes/202403241648 leaders quote.md",
     "book notes/20225301520 switch osez le changement.md",
-    "Enneagramme type 7.md",
-    "202401012116 Loi de l'attraction.md",
-    "202312172202 Etat du moi pour le type 7.md",
-    "blog post/202209281643 attente exigence frustration.md",
-    "bio/202312130825 dream inspiration.md",
-    "bio/202312042028 histoire 01.md",
-    "notes/202312061630 Vivre sa relation avec un type eneagramme.md",
-    "book notes/202203081040 Chapter lead.md",
-    "202312061630 Vivre sa relation avec un type eneagramme.md",
-    "book notes/202312051641 citation paulo coehlo routine.md",
-    "notes/202305120918 stimulus pour l'autre.md",
+    "book notes/20240305 Activez vos talents, ils peuvent changer le monde.md",
+    "notes/202403051436 reves grands.md",
+    "cnv books/chapitres/202402161437.md",
+    "cnv books/chapitres",
+    "cnv books/202201141555 Stimulus.md",
+    "cnv books/202418011246 CNVPATH Introduction.md",
+    "cnv books/202201181543 PourquoiunlivreCNV.md",
+    "book notes/202401300852 cracking the communication code.md",
+    "book notes/202401012116 Loi de l'attraction.md",
+    "cnv books/PrecisDeCnv.md",
+    "notes/202312172202 Etat du moi pour le type 7.md",
+    "notes/202320062149 trouver ses besoins.md",
+    "notes/202401021530 Feedback.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "book notes/202307061431 Shame Guilt Anger.md",
     "bio",
-    "202312032152 Shame, Guily, Anger - Honte.md",
-    "book notes/202312032152 Shame, Guily, Anger - Honte.md",
-    "notes/202311291826 confort de ne pas changer.md",
     "video notes"
   ]
 }
