@@ -1,6 +1,8 @@
-#honte, #cnv, #cnvbook, #honte , #amour, #dependance, #sexe, #apparence , #comparaison
+#honte, #cnv, #cnvbook, #domination , #nourriture, #vulnerabilite
 
-[[202307061431 Shame Guilt Anger]]
+[[202307061431 Shame Guilty Anger]]
+
+
 
 La honte et la culpabilité sont stimulés par l'idée qu'il y a quelque chose de mauvais en nous, ou que nous avons fait quelque chose de mal, ou que nous aurions pu faire différemment.
 
@@ -44,11 +46,3 @@ Finn Sharderud, psychothérapeute et psychiatre, suggère que la honte est le d�
 A la place de dire à un enfant, "ce n'était pas sérieux" ou "c'était seulement pour rire", nous pouvons aider les enfants à rester en contact avec leurs émotions dans ces situations en disant quelque chose comme :"est ce que cela serait que tu veuilles ressentir du respect et que c'est difficile maintenant?".
 Plus tard dans la vie, une fois que la plupart des enfants ont appris à cacher leur honte, ou le fait qu'ils ne soient pas satisfaits, il devient beaucoup plus difficile de détecter quand ils ont besoin de notre soutien.
 
-**SEXE ET HONTE**
-
-Quand nous commençons un contact sexuel, nous nous sentons souvent vulnérable de se dévoiler. Au fur et à mesure que nous nous sentons en confiance, que l'autre arrive à nous recevoir, nous pouvons agir alors pour approfondir nos connexions.
-Beaucoup sont devenus accoutumés à une manière d'avoir du sexe, même s'ils veulent autre chose d'autre. Pour pouvoir dire à quelqu'un comment nous voulons être touché peut déclencher tellement de honte que beaucoup de personnes ne se le permettent jamais.
-
-Dans la structure de domination, le sexe est largement basé sur la domination et la soumission. L'érotisation de la soumission féminine a fait devenir la violence comme une part de notre sexualité.
-
-Les couples qui se connaissent décrivent souvent leur rencontre sexuelle comme étant moins excitantes, mais avec plus de plaisir qu'au début. Peut être, le plaisir plus silencieux vient du fait qu'ils ont trouvé le moyen de transformer la honte et que le sexe est désormais plus basé sur l'intimité que sur le pouvoir ou la tension.
