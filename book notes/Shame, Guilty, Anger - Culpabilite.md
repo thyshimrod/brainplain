@@ -19,5 +19,17 @@ Exprimer ce que je ressens, ce que j'ai besoin et veut à partir de soupirs, d'e
 Mixer ce que je pense être l'intention de quelqu'un avec ce que je ressnes (je me sens abandonné...)
 
 
+Quand vous vous sentez coupable, rappelez vous cela:
+1. vous vous sentez coupable car vous avez au moins deux besoins qui ne sont pas nourris
+2. ces deux besoins sont importants et beaux
+3. vous vous sentez coupable car vous pensez que ces besoins ne peuvent pas être nourris sans qu'une autre personne n'abandonne ses propres besoins, ou que vous ne voyez pas la beauté dans vos besoins
+4. Si vous agissez avant d'avoir pris contact avec ces besoins, vous allez agir d'une manière coûteuse, quoique vous ayez choisi de faire.
 
+Transformer la culpabilité:
+1. quand vous vous sentez coupable, arrêtez, respirer et connectez vous à ce qui se passe en vous.
+2. Donner de l'espace à tous les jugements, et vos pensées "vous devriez". Ecoutez ces pensées, mais n'agissez pas sur elles.
+3. Demandez vous mêmes quels besoins ces pensées essayent de vous rappeler à vous
+4. Demandez vous même quels besoins serait nourris si vous choisissiez de ne pas faire ce qu'elles vous disent de faire
+5. Demandez vous ce que vous pourriez faire pour nourrir ou au moins prendre en charge, ces deux besoins que vous avez découvert auparavant
+6. Agissez une fois que le sentiment de culpabilité a changé, même si vous n'avez pas trouvé comment vous pourriez nourrir ces besoins. PErmettez vous de faire le deuil de ces besoins que vous ne pouvez pas nourrir pour l'instant.
 

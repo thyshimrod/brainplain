@@ -22,6 +22,8 @@ Le but de la punition est que les gens changent. Pour aider les gens, pour qu'il
 Pour accomplir cela, il est bien d'utiliser des mots jugeants comme "bon", "mauvais", "irrationnel", "incompétent". Le mot "pardonner" est l'une des premières choses du système qu'ils doivent apprendre correctement. Cela leur montre qu'ils doivent se repentir, et comprendre qu'ils ont mal fait.
 La notion de punition et de récompense sont tellement ancrés en nous, qu'il est difficile pour nous d'imaginer d'autres options.
 
+Quand nous réalisions que nous ne sommes pas des Dieux, et que nous n'avons pas le pouvoir de créer des émotions chez autrui, le pas à faire pour ressentir de la compassion n'est plus si grand. Alors, nous pourrons entendre la douleur de la personne comme un signal qui dit qu'elle a besoin plus d'attention ou d'amour que ce qu'elle vit actuellement.  Maintenant que tu sais que tu n'es pas responsable de ce que l'autre ressent, tu peux contribuer pour eux, mais de ton propre choix. Cela aura un effet complètement différent sur votre relation, si vous contribuez car c'était votre devoir ou pour éviter le sentiment de culpabilité.
+
 [[Shame, Guilty, Anger - Honte|La Honte]]
 [[Shame, Guilty, Anger - Culpabilite|Culpabilité]]
 [[Shame, Guilty, Anger - Colere|Colère]]
@@ -33,8 +35,8 @@ La notion de punition et de récompense sont tellement ancrés en nous, qu'il es
 [[Shame, Guilty, Anger - Appreciation vs Approbation]]
 [[Shame, Guilty, Anger - Compromis vs Mouvement]]
 [[Shame, Guilty, Anger - Accomplir vs Créer]]
-
-
+[[Shame, Guilty, Anger - Différentiations]]
+[[Shame, Guilty, Anger - Honte - Le compas des besoins]]
 
 
 
