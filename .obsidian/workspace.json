@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book notes/202307061431 Shame Guilty Anger.md",
+                "file": "notes/20240424 besoin et respect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book notes/202307061431 Shame Guilty Anger.md",
+                "file": "notes/20240424 besoin et respect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +102,25 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "00e6a6c403902f63",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,9 +137,13 @@
   },
   "active": "392eff885636b328",
   "lastOpenFiles": [
+    "notes/20240423 dev perso et couple.md",
+    "notes/20240424 besoin et respect.md",
+    "notes/202404222047 contrôle, compulsion, type7.md",
+    "notes/202404180912 colere exemple et explication.md",
+    "book notes/202307061431 Shame Guilty Anger.md",
     "book notes/Shame, Guilty, Anger - Culpabilite.md",
     "book notes/Shame, Guilty, Anger - Colere.md",
-    "book notes/202307061431 Shame Guilty Anger.md",
     "book notes/Shame, Guilty, Anger - Honte - Le compas des besoins.md",
     "book notes/Shame, Guilty, Anger - Honte et sexe.md",
     "book notes/Shame, Guilty, Anger - Honte 1.md",
@@ -151,10 +163,6 @@
     "notes/202404151531 posture de leader selon SD.md",
     "notes/202404151507 énergie et leadership.md",
     "notes/202404041051 Priere du changemaker.md",
-    "video notes/202311212059 commencer par soi.md",
-    "transfo/20240326 mainpage transfo.md",
-    "transfo/Elements_de_transition_culture.md",
-    "transfo/SDDifference_entreprise_niveau_orange_et_vert.md",
     "transfo",
     "cnv books/chapitres",
     "Untitled 1.canvas",
