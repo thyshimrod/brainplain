@@ -1,4 +1,4 @@
-#biopogi, #inspiration , #reve, #raisondetre 
+#biopogi, #inspiration , #reve, #raisondetre , #biopogi
 
 Lieu multi activités : accueil, méditation, calme, jeux, chants, psy, jardin
 

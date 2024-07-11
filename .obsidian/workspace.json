@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e95668cf090fdafa",
+        "id": "6429af20894d53d4",
         "type": "tabs",
         "children": [
           {
-            "id": "392eff885636b328",
+            "id": "41fecda7dbc248a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20240424 besoin et respect.md",
+                "file": "book notes/202406191007 enneagramme tableaux - type 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdf9b322d1e04d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book notes/202406191408 enneagramme tableaux types healthy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36101b9a0f68e23f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book notes/202406191007 enneagramme tableaux - type 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#honte",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,14 +110,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/20240424 besoin et respect.md",
+                "file": "book notes/202406191408 enneagramme tableaux types healthy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -135,38 +160,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "392eff885636b328",
+  "active": "bdf9b322d1e04d33",
   "lastOpenFiles": [
-    "notes/20240423 dev perso et couple.md",
-    "notes/20240424 besoin et respect.md",
-    "notes/202404222047 contrôle, compulsion, type7.md",
-    "notes/202404180912 colere exemple et explication.md",
-    "book notes/202307061431 Shame Guilty Anger.md",
-    "book notes/Shame, Guilty, Anger - Culpabilite.md",
-    "book notes/Shame, Guilty, Anger - Colere.md",
-    "book notes/Shame, Guilty, Anger - Honte - Le compas des besoins.md",
-    "book notes/Shame, Guilty, Anger - Honte et sexe.md",
-    "book notes/Shame, Guilty, Anger - Honte 1.md",
-    "book notes/Shame, Guilty, Anger - Honte.md",
-    "book notes/Shame, Guilty, Anger - Compromis vs Mouvement.md",
-    "book notes/Shame, Guilty, Anger - Différentiations.md",
-    "book notes/Shame, Guilty, Anger - Accomplir vs Créer.md",
-    "book notes/Shame, Guilty, Anger - Appreciation vs Approbation.md",
-    "book notes/Shame, Guilty, Anger - Liberté de choix ou dépendance.md",
-    "book notes/Shame, Guilty, Anger - Excuses.md",
-    "book notes/Shame, Guilty, Anger - obeir ou s auto discipliner.md",
-    "book notes/Shame, Guilty, Anger - Domination ou Prise en compte des besoins.md",
-    "book notes/Shame, Guilty, Anger - Deviner le besoin.md",
-    "book notes/Shame, Guilty, Anger - Deuil ou abandon.md",
-    "book notes/Shame, Guilty, Anger - Empathie.md",
-    "book notes/Shame, Guily, Anger - Honte 13 1 1 3.md",
-    "notes/202404151531 posture de leader selon SD.md",
-    "notes/202404151507 énergie et leadership.md",
+    "book notes/202407112239 enneagramme tableaux - type 4.md",
+    "book notes/202406191007 enneagramme tableaux - type 7.md",
+    "book notes/202407032141 enneagramme tableaux - type 3.md",
+    "book notes/202406191408 enneagramme tableaux types healthy.md",
+    "book notes/202407031002 enneagramme tableaux - type 2.md",
+    "notes/202405271407 Spirale dynamique vue synthetique.md",
+    "book notes/20240305 Activez vos talents, ils peuvent changer le monde.md",
+    "notes/202405221057 enneagramme liste des types synthèses.md",
+    "notes/202404300934 evolution type 7.md",
+    "transfo/202407021153 gwen support.md",
+    "bio/202406190927 divers elements.md",
+    "notes/202405271357 prez spirale dynamique.md",
+    "bio/202312042028 histoire 01.md",
+    "attachments/2016_Agora_No14_09_Veille-1080x280.jpg",
+    "attachments/paradigm21-blog-spirale-dynamique-transitions.png",
+    "attachments/paradigm21-blog-spirale-dynamique-niveaux-d-existence.png",
+    "attachments/Ennea-HolyIdeas3.png",
+    "notes/202401021530 Feedback.md",
+    "notes/202403051436 reves grands.md",
+    "notes/202403241648 leaders quote.md",
+    "notes/202403251239 decision et insecurite.md",
     "notes/202404041051 Priere du changemaker.md",
+    "notes/202404151507 énergie et leadership.md",
+    "notes/202404151531 posture de leader selon SD.md",
+    "notes/202404180912 colere exemple et explication.md",
+    "notes/202404222047 contrôle, compulsion, type7.md",
+    "notes/202404291125 Enneagramme - exercice de panel.md",
+    "notes/202405061813 connaissance du couple.md",
+    "book notes/Shame, Guilty, Anger - Appreciation vs Approbation.md",
+    "cnv books/20240181250 CNVPATH expression authentique.md",
+    "Untitled.canvas",
+    "attachments/Tableau-de-Fox.pdf",
+    "attachments/meca8-1030x579.png",
+    "attachments/meca7-1030x579.png",
+    "attachments/meca6-1030x579.png",
+    "attachments/meca5-1030x579.png",
+    "attachments/meca4-1030x579.png",
+    "attachments/meca3-1030x579.png",
     "transfo",
     "cnv books/chapitres",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "bio",
     "video notes"
   ]
