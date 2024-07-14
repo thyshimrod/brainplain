@@ -44,7 +44,7 @@ Flirtant                              Familier
 Faire plaisir aux autres      Empli de tendresse
 Cultivant                           besoin de contact
 "Partageant"                     physique
-Persuasif                           religieux
+*Persuasif*                           *religieux*
 
 *5. Level of Interpersonal Control*
 **Intrusive**                          **possessive**                qu'on ait besoin de lui      qu'eux et leur aide soient
@@ -54,8 +54,8 @@ Séducteur                         arrieres pensees
 conseil non demandé       a fleur de peau
 planant                              jaloux
 commerage                       codependant
-"enablinb dominating"     "stuffing feelings"
-                     centré sur soi
+*"enabling dominating"*     "stuffing feelings"
+                     *centré sur soi*
 
 *6. Level of overcompassion*
 **autoritaire**                    **suffisant**                   d'etre reconnu                de chasser les autres
@@ -65,7 +65,7 @@ non sincere                    moralisateur
 indiscret                         présomptueux          
 termes d'affection          auto félicitation
 plainte/martyr                hypocondriaque
-saper le moral                confrontant
+*saper le moral*                *confrontant*
 
 *Unhealthy*
 *7. Level of Violation*
@@ -75,8 +75,8 @@ Instillant la culpabilité   rationnalisant            egoiste ou mauvais
 etouffant                       theatral                      (s'accrochant aux gens
 décourageant               découragé                  coute que coute)
 trouble alimentaire       enragé
-somatisation                 vengeur
-violent
+somatisation                 *vengeur*
+*violent*
 
 *8. level of delusion & compulsion*
 **Coercitif**                   **entitled**                          d'obtenir l'amour            qu'ils soient mauvais
@@ -85,7 +85,7 @@ echapee sexuelle       desespéré                       de n'importe quelle    
 vorace                       amour obsessif               manière
 téméraire                  coeur brisé
 molestant                 demande de réparation
-prédateur                  sans limite
+*prédateur*                  *sans limite*
 
 *9. level of pathological destructiveness*
 **Parasitant**                    **se sent victimisé**         se justifier par               La peur primaire est réalisée
@@ -94,4 +94,4 @@ malade                         psychosomatique          et la souffrance        
 physiquement cassé    désordre
 bas                               "emotionnellement
 invalide                            consumé"
-destructeur                   sans remords
+*destructeur*                   *sans remords*

@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6429af20894d53d4",
+        "id": "cb8095040c378ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "41fecda7dbc248a5",
+            "id": "a40d7a5b088f22a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book notes/202406191007 enneagramme tableaux - type 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf9b322d1e04d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book notes/202406191408 enneagramme tableaux types healthy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36101b9a0f68e23f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book notes/202406191007 enneagramme tableaux - type 7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#type7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book notes/202406191408 enneagramme tableaux types healthy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,13 +130,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdf9b322d1e04d33",
+  "active": "a40d7a5b088f22a3",
   "lastOpenFiles": [
-    "book notes/202407112239 enneagramme tableaux - type 4.md",
     "book notes/202406191007 enneagramme tableaux - type 7.md",
-    "book notes/202407032141 enneagramme tableaux - type 3.md",
+    "book notes/202407132116 enneagramme tableaux - type 9.md",
     "book notes/202406191408 enneagramme tableaux types healthy.md",
+    "book notes/202407122257 enneagramme tableaux - type 8.md",
+    "book notes/202407122207 enneagramme tableaux - type 6.md",
+    "book notes/202407121101 enneagramme tableaux - type 5.md",
+    "book notes/202407112239 enneagramme tableaux - type 4.md",
+    "book notes/202407032141 enneagramme tableaux - type 3.md",
     "book notes/202407031002 enneagramme tableaux - type 2.md",
+    "book notes/202407132202 enneagramme tableaux - type 1.md",
     "notes/202405271407 Spirale dynamique vue synthetique.md",
     "book notes/20240305 Activez vos talents, ils peuvent changer le monde.md",
     "notes/202405221057 enneagramme liste des types synthèses.md",
@@ -187,11 +162,6 @@
     "notes/202404151507 énergie et leadership.md",
     "notes/202404151531 posture de leader selon SD.md",
     "notes/202404180912 colere exemple et explication.md",
-    "notes/202404222047 contrôle, compulsion, type7.md",
-    "notes/202404291125 Enneagramme - exercice de panel.md",
-    "notes/202405061813 connaissance du couple.md",
-    "book notes/Shame, Guilty, Anger - Appreciation vs Approbation.md",
-    "cnv books/20240181250 CNVPATH expression authentique.md",
     "Untitled.canvas",
     "attachments/Tableau-de-Fox.pdf",
     "attachments/meca8-1030x579.png",

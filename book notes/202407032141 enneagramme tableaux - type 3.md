@@ -42,8 +42,8 @@ Auto amélioration      Compétitif                        valorisé par
 Organisé                     Exclusif                             les autres
 Diplomate                   Passionné
 Présentable                 Cherchant la 
-Conforme                    reconnaissance
-                  conciliant
+*Conforme*                    reconnaissance
+                  *conciliant*
 
 *5. Level of interpersonal control*
 **Expéditif**            **Soucieux de son image**      De créer une                 Que les autres voient
@@ -54,9 +54,9 @@ Packaged             "Emotionnellement                                          
 Efficient                détaché"
 Pragmatique        Lire les autres
 Professionnel       "Problèmes
-"Friendly               intimes"
-complaisant"         Doutant de soi
-            Désengagé
+*"Friendly*               intimes"
+*complaisant"*         Doutant de soi
+                *Désengagé*
 
 *6.Level of overcompensation*
 **Autopromotion**            **Grandiose**                      De se convaincre        Qu'ils sont en train
@@ -66,8 +66,8 @@ accomplissement"         Méprisant                        de leur image        
 Compétition ouverte     Arrogant
 Ricanant                         Jaloux
 Séducteur                      "Nécessiteux 
-"attitude apaisante"        secrètement"
-					non réaliste
+*"attitude apaisante"*        secrètement"
+					*non réaliste*
 *Unhealthy*
 *7. Level of Violation*
 **Décevant**                  **Sans Scrupules**             De préserver l'illusion         d'être pris, de perdre
@@ -76,7 +76,7 @@ Occultant                   Cupide                           qu'ils sont encore 
 Déloyal ou illicite       Sans affect                                                                (qu'il n'y ait rien que les
 Nuisant                       "Se sentant                                                              autres puissent admirer en eux)
 Divisant                       insignifiant"
-Inadéquat                   Paralysé
+*Inadéquat*                  *Paralysé*
 
 *8. Level of delusion & compulsion*
 **Opportuniste**                **Trompeur**                  De faire tout ce qui est     Que leur fausseté et leur
@@ -85,11 +85,11 @@ Trahissant                       Sans remord               soutenir leurs fausse
 Sabotant                        Désespéré                   prétentions
 Intrigant                         Se sent coincé             (tout en couvran
 Menteur pathologique  Détachement de soi     leurs traces)
-Dépersonnalisé              Dissocié
+*Dépersonnalisé*              *Dissocié*
 
 *9. Level of Pathological Destructiveness*
 **Impitoyable**       **Monomaniaque**               De détuire quiconque ou         La peur basique est réalisée
 Monstrueux         Malicieux                           ce qui les menace ou leur        qu'ils sont rejetés car 
 Vicieux                 Vengeur                             rappelle ce qui leur manque    sans valeur
 Psychopathe        Sadique
-Fragmenté            Abandon de soi
+*Fragmenté*            *Abandon de soi*

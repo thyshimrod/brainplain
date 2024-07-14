@@ -10,8 +10,13 @@ POur remonter les niveaux de Healthy, le type doit alors se confronter à sa peu
 
 Le niveau 1 n'est pas la fin de la route, mais le début d'un autre. C'est le commencement du monde du true self, l'essence, qui n'est pas défini de la manière dont l'égo est. Une fois qu'une personne s'est libéré du piège de sa propre personnalité, il va commencer à expérimenter plein de sortes d'impressions merveilleuses de lui même, du monde, et de la vie. Bien plus, une telle personne sera capable d'intégrer les qualités positives des 9 types, dans la mesure où elle n'est plus attachée aux croyances et comportements de l'une d'entre eux.
 
+[[202407132202 enneagramme tableaux - type 1|type 1]]
 [[202407031002 enneagramme tableaux - type 2|type 2]]
 [[202407032141 enneagramme tableaux - type 3|type 3]]
 [[202407112239 enneagramme tableaux - type 4|type 4]]
+[[202407121101 enneagramme tableaux - type 5|type 5]]
+[[202407122207 enneagramme tableaux - type 6|type 6]]
 [[202406191007 enneagramme tableaux - type 7|type 7]]
+[[202407122257 enneagramme tableaux - type 8|type 8]]
+[[202407132116 enneagramme tableaux - type 9|type 9]]
 

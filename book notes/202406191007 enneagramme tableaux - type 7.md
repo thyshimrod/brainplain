@@ -44,7 +44,7 @@ Occupé                            dans l'appétit                          de s
 Dilettante                         matérialiste                                                                     émotions désagréables
 élégant                            sagesse du monde                                                          vont arriver
 Bavard                             branché
-prosélytisme                    à la recherche de sensation
+*prosélytisme*                    *à la recherche de sensation*
 
 *5. Level of interpersonal control*
 **Hyperactif**               <- **désinhibé**                                     <- rester dans l'excitation    que leur 
@@ -54,7 +54,7 @@ Dispersé                        irrévérent                                   
 franc                              distrait
 choquant                       agité
 exagérant                      divergent
-opiniatre                        impatient
+*opiniatre*                        *impatient*
 
 *6. Level of overcompensation*
 **excessive**             <- **auto centré**                    <- avoir tout            que leurs actions leur
@@ -63,7 +63,7 @@ insensible                   blasé                                   gratificat
 gaspilleur                   cupide                                 instantanée
 addictif                       endurci
 cavalier                       déni de culpabilité
-perfectionniste           intransigeant
+*perfectionniste*           *intransigeant*
 
 *Unhealthy*
 *7. Level of violation*
@@ -73,21 +73,21 @@ abusif/rude            irresponsable                  à tout prix
 infantile                 très anxieux
 débauché              amer
 corrompant           sans joie
-intolérant               vindicatif
+*intolérant*               *vindicatif*
 
 *8.Level of Delusion & compulsion*
-**temeraire**               **Maniaque**              <- faire n'importe             D'avoir irrémédiablement
+**téméraire**               **Maniaque**              <- faire n'importe             D'avoir irrémédiablement
 erratique                 passer à l'acte          quoi pour ressentir          gaché leur vie et eux mêmes
 instable                   hystérique                 quelque chose
 Imprévisible             inattentif
 hors de controle     defi la mort
 sadomaso                paralysé
-cruel                         obsessionnel
+*cruel*                         *obsessionnel*
 
 *9.Level of Pathological Destructiveness*
 **Paralysé**                **Accablé**                 <- de lacher la lutte           la peur primaire est réalisée
 burned out            pris de panique        ne plus y aller                  ils sont dans la souffrance
 torturé                   claustrophobie                                                 et sont privés de tous ceux
 En épave                surchargé                                                         dont ils ont besoin pour 
-débilité                   pris au piege                                                    etre satisfait et heureux
-punitif                    reprobateur
+débilité                   pris au piège                                                    être satisfait et heureux
+*punitif*                    *réprobateur*
