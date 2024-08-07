@@ -9,7 +9,7 @@ Cela va définir notre personnalité, notre type.
 
 Répéter ses compulsions aux détriments de ses autres potentialités, fait de nous des individus déséquilibrés et ayant perdu une bonne part de notre liberté
 
-Le but premier de l'enéagramme est de reconnaître, et d'abandonner la compulsion de notre type pour laisser libre champ à une personnalité plus vraie et plus équilibrée.
+Le but premier de l'ennéagramme est de reconnaître, et d'abandonner la compulsion de notre type pour laisser libre champ à une personnalité plus vraie et plus équilibrée.
 
 L'abandon du mécanisme de protection qu'est la compulsion semble être un danger, alors que c'est dans la compulsion que réside le danger véritable.
 

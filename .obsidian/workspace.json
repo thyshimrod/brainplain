@@ -11,11 +11,40 @@
             "id": "a40d7a5b088f22a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/202109141108 La colere au dessus des sentiments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7d489b48118416d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/202403241648 leaders quote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc6dcaf5ccfe38d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/202109081338 etape transfo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#type7",
+                "query": "tag:#eneagramme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "references/202109081338 etape transfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,38 +160,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a40d7a5b088f22a3",
+  "active": "9fc6dcaf5ccfe38d",
   "lastOpenFiles": [
-    "book notes/202406191007 enneagramme tableaux - type 7.md",
-    "book notes/202407132116 enneagramme tableaux - type 9.md",
-    "book notes/202406191408 enneagramme tableaux types healthy.md",
-    "book notes/202407122257 enneagramme tableaux - type 8.md",
-    "book notes/202407122207 enneagramme tableaux - type 6.md",
-    "book notes/202407121101 enneagramme tableaux - type 5.md",
-    "book notes/202407112239 enneagramme tableaux - type 4.md",
-    "book notes/202407032141 enneagramme tableaux - type 3.md",
-    "book notes/202407031002 enneagramme tableaux - type 2.md",
-    "book notes/202407132202 enneagramme tableaux - type 1.md",
-    "notes/202405271407 Spirale dynamique vue synthetique.md",
-    "book notes/20240305 Activez vos talents, ils peuvent changer le monde.md",
-    "notes/202405221057 enneagramme liste des types synthèses.md",
-    "notes/202404300934 evolution type 7.md",
-    "transfo/202407021153 gwen support.md",
-    "bio/202406190927 divers elements.md",
-    "notes/202405271357 prez spirale dynamique.md",
-    "bio/202312042028 histoire 01.md",
+    "references/202106181353 Faire plus de la meme chose.md",
+    "references/202106181351 Mesurer.md",
+    "references/202103282037 parler de soi et guérir.md",
+    "references/202103240945 Sentez l'expérience.md",
+    "references/202007312158 Citation violence.md",
+    "references/202007312120 loi du temps.md",
+    "references/202007312120 Loi de parkinson se fixer des délais courts.md",
+    "references/202007312119 Loi de Fraisse tu regarderas ta montre ... ou pas.md",
+    "references/202007312119 Loi de Douglas tu rangeras ton bureau.md",
+    "references/202007312118 Loi de Laborit tu commenceras par le plus difficile.md",
+    "references/202007312117 Loi de Taylor Ordonnancer les tâches.md",
+    "references/202007312117 Loi de Carlson tu limiteras les interruptions.md",
+    "references/202007312117 Loi d'Illich Tu feras des pauses.md",
+    "references/202007312116 Loi Swoboda-Fliess-Teltscher connaît toi même.md",
+    "references/202007312116 Loi de l'écclesiaste chaque chose en son temps, et un temps pour chaque chose..md",
+    "references/202007312115 Loi de murphy Tu évalueras les risques et prévoieras de la marge.md",
+    "references/202007312115 Loi de Kotter tu agiras avec célérité, et tu célébreras chaque victoire.md",
+    "references/202007312114 Loi de Hostadter glissement de planning.md",
+    "references/202007302302 prendre une décision.md",
+    "references/202007302301 Destin.md",
+    "references/202007302254 puritanisme.md",
+    "references/202007302253 s'aimer.md",
+    "references/202007302251 La vie est un jeu.md",
+    "references/202007302251 Heureux selon dostoïevski.md",
+    "video notes/202311212059 commencer par soi.md",
+    "references/202109081338 etape transfo.md",
+    "signal-2024-08-01-12-25-34-262.bin",
     "attachments/2016_Agora_No14_09_Veille-1080x280.jpg",
     "attachments/paradigm21-blog-spirale-dynamique-transitions.png",
     "attachments/paradigm21-blog-spirale-dynamique-niveaux-d-existence.png",
     "attachments/Ennea-HolyIdeas3.png",
-    "notes/202401021530 Feedback.md",
-    "notes/202403051436 reves grands.md",
-    "notes/202403241648 leaders quote.md",
-    "notes/202403251239 decision et insecurite.md",
-    "notes/202404041051 Priere du changemaker.md",
-    "notes/202404151507 énergie et leadership.md",
-    "notes/202404151531 posture de leader selon SD.md",
-    "notes/202404180912 colere exemple et explication.md",
     "Untitled.canvas",
     "attachments/Tableau-de-Fox.pdf",
     "attachments/meca8-1030x579.png",

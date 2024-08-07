@@ -1,4 +1,4 @@
-# Eneagramme Détermination du type
+ # Eneagramme Détermination du type
 tags = #eneagramme, #type
 
 Généralement les gens ne sont pas purement un type, cela serait caricaturale.

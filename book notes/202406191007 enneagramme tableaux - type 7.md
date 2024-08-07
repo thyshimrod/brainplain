@@ -30,7 +30,7 @@ energique               positif
 **Productif**              <- **Réaliste**           <- faire ces choses qui       de manquer sur des choses
 pratique                     self confident       vont sécurisé le fait        et expériences dignes d'intérêt
 Accompli                   orienté futur          qu'ils aient ce dont        (ce qu'ils ont n'est pas assez)
-Grégaire                     engagé 0               ils besoin
+Grégaire                     engagé                ils besoin
 Versatile                     passionné                 
 Prolifique                   vif
 divertissant                audacieux
@@ -58,7 +58,7 @@ exagérant                      divergent
 
 *6. Level of overcompensation*
 **excessive**             <- **auto centré**                    <- avoir tout            que leurs actions leur
-demandeur                mécontent                          tout de suite        procurent douleur
+Exigeant                     mécontent                          tout de suite        procurent douleur
 insensible                   blasé                                   gratification         et malheur
 gaspilleur                   cupide                                 instantanée
 addictif                       endurci

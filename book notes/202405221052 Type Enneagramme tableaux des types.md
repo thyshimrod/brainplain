@@ -1,4 +1,0 @@
-#enneatype , #eneagramme 
-
-
-
